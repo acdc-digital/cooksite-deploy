@@ -61,10 +61,6 @@ The main architecture design uses traditional ml-techniques in combination with 
 Simple server and UI that handles PDF upload, so that you can chat over your PDFs using OpenAI and Acticeloop Deeplake.
 
 <img src="assets/chat-sample2.svg" width="700">
-
-**Retrieval Augmented Generation with Cascading Knowledge Retrievl:**
-
-<img src="https://github.com/acdc-digital/acdc_solomon/blob/main/assets/lm_cascades_fig4.png" alt="Cascades for Retrieval" width="700">
 <br>
 
 ## Bibliography
