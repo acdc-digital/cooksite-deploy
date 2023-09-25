@@ -77,7 +77,10 @@ Simple server and UI that handles PDF upload, so that you can chat over your PDF
 
 
 ##
-<a name="fn1">1</a>: Initial architecture design is based on: 🧺 RAGstack, Clerk, Drizzle-ORM 
+<a name="fn1">1</a>: Initial architecture design is based on: 🧺 RAGstack, Clerk, Drizzle-ORM   
+<a name="fn2">2</a>: Statement of Progress, September 16, 2023.  
+<a name="fn3">3</a>: Link to Prospectus (wip)  
+<a name="fn4">4</a>: Statement of Progress, September 19, 2023. 
 
 <p align="left">
   <a href="https://twitter.com/psychicapi" target="_blank">
@@ -88,13 +91,3 @@ Simple server and UI that handles PDF upload, so that you can chat over your PDF
     <img src="https://img.shields.io/twitter/follow/DrizzleORM?style=social" alt="Twitter">
   </a>
 </p>
-
-
-##
-<a name="fn2">2</a>: Statement of Progress, September 16, 2023. 
-
-##
-<a name="fn3">3</a>: Link to Prospectus (wip)
-
-##
-<a name="fn4">4</a>: Statement of Progress, September 19, 2023. 
