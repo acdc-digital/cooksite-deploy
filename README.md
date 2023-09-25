@@ -54,7 +54,7 @@ The main architecture design uses traditional ml-techniques in combination with 
 
 **Enterprise Grade Loaders: +2,000 pages in minutes...**
 
-<img src="https://github.com/acdc-digital/acdc_solomon/raw/main/assets/enterprise_knowledge_retrieval%20%281%29.png" alt="Enterprise Knowledge Retrieval" width="700">
+<img src="assets/enterprise_knowledge_retrieval.svg" width="700">
 
 **Chat-UI Preview:**
 
