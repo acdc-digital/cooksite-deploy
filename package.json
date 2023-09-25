@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1463.0",
+    "react-dropzone": "^14.2.3"
+  }
+}
