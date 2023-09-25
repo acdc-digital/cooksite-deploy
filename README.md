@@ -30,8 +30,7 @@ Notes:
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-round&logo=React&logoColor=white)](https://react.dev/)
 [![Clerk/Supabase](https://img.shields.io/badge/Clerk%2FSupabase-%23181818.svg?style=flat-round&logo=Supabase&logoColor=white)](https://supabase.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-round&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat-round&logo=OpenAI&logoColor=white)](https://www.openai.com/)
-
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat-round&logo=OpenAI&logoColor=white)](https://www.openai.com/)  
 [![Langchain](https://img.shields.io/badge/Langchain-%23007ACC.svg?style=flat-round&logoColor=white)](https://your-langchain-website-or-repo-link)
 [![deeplake](https://img.shields.io/badge/powered%20by-Deep%20Lake%20-ff5a1f.svg)](https://github.com/activeloopai/deeplake)
 [![Neon DB](https://img.shields.io/badge/Neon%20DB-%2332CD32.svg?style=flat-round&logoColor=white)](https://neon.tech/)
