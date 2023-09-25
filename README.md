@@ -55,10 +55,9 @@ The main architecture design uses traditional ml-techniques in combination with 
 **Enterprise Grade Loaders: +2,000 pages in minutes...**
 
 <img src="assets/enterprise_knowledge_retrieval.svg" width="700">
+<br>
 
-**Chat-UI Preview:**
-
-Simple server and UI that handles PDF upload, so that you can chat over your PDFs using OpenAI and Acticeloop Deeplake.
+**Professional GUI ith performant document mark-up techniques. Review, approve, markup, download, comment, and share files.**
 
 <img src="assets/chat-sample2.svg" width="700">
 <br>
