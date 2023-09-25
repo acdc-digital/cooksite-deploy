@@ -35,8 +35,6 @@ Notes:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-round&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-round&logo=Vercel&logoColor=white)](https://vercel.com/)
 
-
-
 Executive Sumamary: Our project-app has been initiated via React and Next.js. We've created the User authentification with Clerk, and we've identified a potential integration with Supasbase (used for edge-functions related to user-data management). Following, we've created a Neon-db which is currently being used to hold the user-data collected from sign-in, document, and chat management. The back end of our application is written in Python, and covers a variety of essential Enterprise securities including complete Evaluation of digital tasks. 
 
 <br>
@@ -50,6 +48,7 @@ The Solomon architecture takes advantage of many libraries in order to advance t
 The main architecture design uses traditional ml-techniques in combination with today's advanced artificial intellegence, to abstract and transform user data in such a way that vectorstorage is enabled. In this proces, we ingest large quantities of data, in multiple formats, which can then be further analyzed in advanced retrieval methods. In the front we use the React/Next.js libraries to develop user-friendly and information-forward web application. User Oauth and user-db are Supabase, along with a variety of other cool features. Our back-end is FastAPI for communicating with our model, then fine-tuned OpenAI models that are also trained on the retrieval-data. I believe this method will highly benefit the results as the database is able to scale. That is based on the information accumulated to date. We are betting this works better than we expect and cannot wait to see the results further down the line. 
 <br>
 ## Intended project structure 
+<br>
 
 **Enterprise Grade Loaders: +2,000 pages in minutes...**
 
