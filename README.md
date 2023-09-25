@@ -38,7 +38,8 @@ Notes:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-round&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-round&logo=Vercel&logoColor=white)](https://vercel.com/)
 
-Executive Sumamary: Our project-app has been initiated via React and Next.js. We've created the User authentification with Clerk, and we've identified a potential integration with Supasbase (used for edge-functions related to user-data management). Following, we've created a Neon-db which is currently being used to hold the user-data collected from sign-in, document, and chat management. The back end of our application is written in Python, and covers a variety of essential Enterprise securities including complete Evaluation of digital tasks. 
+Executive Sumamary:  
+Our project-app has been initiated via React and Next.js. We've created the User authentification with Clerk, and we've identified a potential integration with Supasbase. Following, we've created a Neon-db which is currently being used to hold the user-data collected from sign-in, document, and chat management. We're currently using AWS for file loading and storage. 
 
 <br>
 
