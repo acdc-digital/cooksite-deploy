@@ -81,6 +81,7 @@ The main architecture design uses traditional ml-techniques in combination with 
 <a name="fn3">3</a>: Link to Prospectus (wip)  
 <a name="fn4">4</a>: Statement of Progress, September 19, 2023. 
 
+<br>
 <p align="left">
   <a href="https://twitter.com/psychicapi" target="_blank">
     <img src="https://img.shields.io/twitter/follow/psychicapi?style=social" alt="Twitter">
