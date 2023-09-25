@@ -54,7 +54,7 @@ The main architecture design uses traditional ml-techniques in combination with 
 
 **Enterprise Grade Loaders: +2,000 pages in minutes...**
 
-<img src="assets/enterprise_knowledge_retrieval.svg" width="700">
+<img src="assets/enterprise_knowledge_retrieval3.svg" width="700">
 <br>
 
 **Professional GUI ith performant document mark-up techniques. Review, approve, markup, download, comment, and share files.**
