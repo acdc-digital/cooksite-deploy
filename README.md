@@ -37,6 +37,8 @@ Notes:
 
 Executive Sumamary: Our project-app has been initiated via React and Next.js. We've created the User authentification with Clerk, and we've identified a potential integration with Supasbase (used for edge-functions related to user-data management). Following, we've created a Neon-db which is currently being used to hold the user-data collected from sign-in, document, and chat management. The back end of our application is written in Python, and covers a variety of essential Enterprise securities including complete Evaluation of digital tasks. 
 
+<br>
+
 ## Introduces MITP
 
 The Solomon Architecture is based on advanced retrieval techniques, proprietary and developed by ACDC.digital in order to personalize assistant-based models for the company that they will be integrated with. This Architecture is called Machine Information Training & Personalization (MITP). The theoretical objective of our architecture is to determine how various inputs/modalities are interlinked in order to exploit those advantages for extremely personalized concepts that would not have been otherwise able to be discovered. 
