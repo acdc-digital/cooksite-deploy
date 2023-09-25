@@ -20,7 +20,6 @@ Notes:
 2.   Another concept that we need to keep in consideration, is that we need to continue to develop our internal server beyond the website tutorial. We need internal tools to evaluate user benchmarks with nice looking visuals. But more than that, we need a repository of information which will act as a gigantic reference library. We can combine this with our vectorstore and use cloud-hosting for easy access. Rather than create our own internal backend, it came to my attention we can use a Notion internalization, which could promote the development of certain parts of the site, and could integrate dashboards, etc. without the additional hassle of trying to learn everything within, React or Next.js. 
 
 3.   In an extension of the notepad idea, I need to find a way to extend email access. How many emails can we write, draft, send per day? etc. How is this best integrated into our existing pipeline?
-
 <br>
 
 ## Our Architecture
