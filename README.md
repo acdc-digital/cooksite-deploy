@@ -5,6 +5,8 @@
 **Introduces:** 
 
 ![solomon-marker](assets/solomon-marker.svg)
+<br>
+<br>
 
 Solomon is an intuitive machine learning model that is design to adapt artifical intellegence to the various needs of small businesses.   [1](#fn1) 
 
