@@ -12,7 +12,7 @@ Solomon is quickly becoming more and more adaptable to natural business processe
 
 Solomon version 3 now includes an engine module to serve embeddings without having to call the parallel processing file. Instead, the engine is now hard-coded into the module, and thus far, has proven significant results. Today's benchmarks include ingesting of 1,800+ pages and generating their text embeddings in under 3-minutes. This is our most impressive model engine, and proves to be an exciting of time of development as production days appear in the near future.   [4](#fn4) 
 
-----
+###
 Notes:
 
 1.   I think there's a vision for Solomon, where there's a lab that hosts all of our artifical intellegence. Solomon is what the product is, but to branch out we need to have our own servers where we can build and implement applications from within our own laboratory. This is the most private way, and the easiest way to reduce overhead over the long -term. We want A100's in daisy-chain to operate our models, and provide a secure and dedicated cloud module for our customers. Or, alternatively, a self-hosted cloud environment for training and prototyping, then deliver finished products.
