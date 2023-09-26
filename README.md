@@ -46,7 +46,9 @@ For years, we've had the privilege of helping small businesses like yours take t
 [![deeplake](https://img.shields.io/badge/powered%20by-Deep%20Lake%20-ff5a1f.svg)](https://github.com/activeloopai/deeplake)
 [![Neon DB](https://img.shields.io/badge/Neon%20DB-%2332CD32.svg?style=flat-round&logoColor=white)](https://neon.tech/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-round&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-round&logo=Vercel&logoColor=white)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-round&logo=Vercel&logoColor=white)](https://vercel.com/)  
+[![PSPDFKit](https://img.shields.io/badge/PSPDFKit-%23007ACC.svg?style=flat-round&logo=Adobe-Acrobat-Reader&logoColor=white)](https://pspdfkit.com/)
+
 
 **Executive Sumamary:**  
 Our project-app has been initiated via React and Next.js. We've created the User authentification with Clerk, and we've identified a potential integration with Supasbase. Following, we've created a Neon-db which is currently being used to hold the user-data collected from sign-in, document, and chat management. We're currently using AWS for file loading and storage. 
