@@ -66,7 +66,7 @@ const FileUpload = () => {
     },
   });
   return (
-    <div className="w-full mb-4 border-solid border-white border rounded-lg cursor-pointer">
+    <div className="w-full border-solid border-white border rounded-lg cursor-pointer">
       <div
         {...getRootProps({
           className: "p-2 flex justify-center items-center",
@@ -76,7 +76,7 @@ const FileUpload = () => {
         {uploading || isLoading ? (
           <>
             {/* loading state */}
-            <Loader2 className="h-4 w-4 text-white animate-spin" />
+            <Loader2 className="h-2 w-4 text-white animate-spin" />
             <p className="ml-2 text-sm text-white">
               Loading...
             </p>

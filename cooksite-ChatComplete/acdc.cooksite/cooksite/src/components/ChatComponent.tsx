@@ -41,7 +41,7 @@ const ChatComponent = ({ chatId }: Props) => {
   }, [messages]);
 
   return (
-    <div className="relative max-h-screen overflow-scroll bg-[#323232] text-gray-200" id="message-container">
+    <div className="flex flex-col h-[99vh] bg-[#323232] text-gray-200">
       {/* header */}
       <div className="sticky top-0 inset-x-0 pl-3 bg-[#323232] h-fit">
         <h3 className="text-lg p-1 text-white">Chat History</h3>
@@ -49,13 +49,15 @@ const ChatComponent = ({ chatId }: Props) => {
       </div>
 
       {/* message list */}
-      <MessageList messages={messages} isLoading={isLoading} />
+      <div className="flex-grow overflow-y-auto" id="message-container">
+        <MessageList messages={messages} isLoading={isLoading} />
+      </div>
 
       {/* Spacing Element: Added this to separate messages from input */}
       <div className="h-4"></div>
 
       {/* input form */}
-      <form onSubmit={handleSubmit} className="sticky bottom-0 inset-x-0 px-2 py-4 ml-5  mr-5 bg-[#323232] border-t border-white pb-7">
+      <form onSubmit={handleSubmit} className="px-2 py-4 ml-5 mr-5 bg-[#323232] border-t border-white">
         <div className="flex">
           <Input
             value={input}
@@ -63,7 +65,7 @@ const ChatComponent = ({ chatId }: Props) => {
             placeholder="Ask any question..."
             className="w-full bg-[#323232] text-white rounded-md"
           />
-          <Button className="bg-[#3E28DE] ml-2 rounded-lg">
+          <Button className="bg-[#3E28DE] ml-2 mb-1 rounded-lg">
             <Send className="h-4 w-4 text-white" />
           </Button>
         </div>

@@ -34,7 +34,7 @@ const MessageList = ({ messages, isLoading }: Props) => {
                 "rounded-lg px-3 text-sm py-1 shadow-md ring-1 ring-gray-900/10",
                 {
                   "bg-white text-black": message.role === "user",
-                  "bg-[#292929] text-white": message.role === "assistant",  // Changed background color here
+                  "bg-[#323232] text-white": message.role === "assistant",  
                 }
               )}
             >
