@@ -74,7 +74,7 @@ const AboutUs: React.FC = () => {
         </div>
       </section>
       <div className="text-md text-[#777] pb-20 text-center max-w-[1400px]">
-        Thank you for your consideration in working with Atlantic Canada's Digital Consultants.
+        Thank you for your consideration in working with Atlantic Canadas Digital Consultants.
       </div>
     </>
   );
