@@ -7,7 +7,7 @@ const AboutUs: React.FC = () => {
         About Us
       </div>
       <div className="text-md text-[#444] pb-4 text-left pl-32 max-w-[1400px]">
-        Welcome to ACDC.digital, your strategic partner in leveraging artificial intelligence to accelerate business growth. Founded with a mission to empower Atlantic Canada's small businesses, we specialize in reducing overhead and streamlining operations through our unique Machine-Information-Training-Personalization (MITP) approach. With two years of experience and a suite of customizable AI solutions, we deliver immediate and transformative benefits to your business. We pride ourselves on our commitment to transparency, quality, and personalized service. We are your partners in innovation and growth.
+        Welcome to ACDC.digital, your strategic partner in leveraging artificial intelligence to accelerate business growth. Founded with a mission to empower Atlantic Canadas small businesses, we specialize in reducing overhead and streamlining operations through our unique Machine-Information-Training-Personalization (MITP) approach. With two years of experience and a suite of customizable AI solutions, we deliver immediate and transformative benefits to your business. We pride ourselves on our commitment to transparency, quality, and personalized service. We are your partners in innovation and growth.
       </div>
       <section style={{
         display: 'flex',
