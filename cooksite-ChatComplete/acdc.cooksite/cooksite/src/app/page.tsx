@@ -5,7 +5,7 @@ import { LogIn } from "lucide-react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar"; 
 import HomeHero from '@/components/home-hero';
-import CallToAction from '@/components/CalltoAction';
+import CallToAction from '@/components/CallToAction';
 import Accordion from '@/components/accordian';
 import FiveStepProcess from "@/components/FiveStepProcess";
 import FeatureHighlight from "@/components/FeatureHighlight";
