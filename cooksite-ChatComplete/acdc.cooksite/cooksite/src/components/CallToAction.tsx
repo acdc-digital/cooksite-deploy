@@ -106,7 +106,7 @@ const CallToAction: React.FC = () => (
     
     {/* Subtext */}
     <div style={styles.subtext}>
-      Solomon-Mini is a demonstration Chatbot which enables our customers to have a limited preview of A.I. capabilities. You can load individual documents 10mb or less, and Solomon will use the vast knowledge of the internet, along with the context of your document, to answer any questions you might have. In this version, we do not accept huge files, calculate math, or use advanced features like email or conversation history. A list of enterprise features can be found below for more information on how we can help. Solomon-Mini can help eliminate administrative burden and make most jobs more enjoyable in a conversational format. We recommend trying it out, and if you’re not getting enough, let’s meet to discuss how we can help further.
+      Solomon-Mini is a demonstration Chatbot which enables our customers to have a limited preview of A.I. capabilities. You can load individual documents 10mb or less, and Solomon will use the vast knowledge of the internet, along with the context of your document, to answer any questions you might have. In this version, we do not accept huge files, calculate math, or use advanced features like email or conversation history. A list of enterprise features can be found below for more information on how we can help. Solomon-Mini can help eliminate administrative burden and make most jobs more enjoyable in a conversational format. We recommend trying it out, and if you&apos;re not getting enough, let&apos;s meet to discuss how we can help further.
     </div>
   </div>
 );
