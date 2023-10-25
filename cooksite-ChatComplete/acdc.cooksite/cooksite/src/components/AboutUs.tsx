@@ -32,7 +32,7 @@ const AboutUs: React.FC = () => {
           {[
             {
               title: 'Who We Are',
-              content: "At ACDC.digital, we're more than just a digital agency. We're your partners in leveraging artificial intelligence to elevate your business. From brand development and competitive analysis to creating machine learning algorithms for chatbots and financial insights, we offer a range of services that go beyond the ordinary by using the latest technologies.",
+              content: "At ACDC.digital, were more than just a digital agency. Were your partners in leveraging artificial intelligence to elevate your business. From brand development and competitive analysis to creating machine learning algorithms for chatbots and financial insights, we offer a range of services that go beyond the ordinary by using the latest technologies.",
             },
             {
               title: 'Our Mission',
@@ -44,7 +44,7 @@ const AboutUs: React.FC = () => {
             },
             {
               title: 'Why Choose Us',
-              content: "We pride ourselves on delivering projects faster and at a fraction of the cost, without compromising on quality. We're not just service providers; we're your long-term strategic partners committed to exceeding expectations across the industry.",
+              content: "We pride ourselves on delivering projects faster and at a fraction of the cost, without compromising on quality. Were not just service providers; were your long-term strategic partners committed to exceeding expectations across the industry.",
             },
           ].map((section, index) => (
             <div key={index} style={{
