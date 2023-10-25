@@ -16,7 +16,7 @@ const Navbar = () => {
     <div>
       {/* New Row Above Navbar */}
       <div className="bg-[#E9E9E5] text-black p-1 text-left ml-40 border-b-1 border-black">
-        Ⓒ ACDC.digital 2021 - 2023:  Atlantic Canada&apos;s Digital Consultants
+        Ⓒ ACDC.digital 2021 - 2023:  Atlantic Canadas Digital Consultants
       </div>
       {/* Navbar */}
       <nav className="bg-black text-white p-3 border-b border-black">
