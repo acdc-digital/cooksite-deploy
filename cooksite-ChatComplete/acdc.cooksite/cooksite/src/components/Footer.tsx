@@ -53,14 +53,11 @@ const Footer: React.FC = () => {
             ACDC.digital
           </div>
           <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '5rem' }}>
-            <img src="/messenger.png" alt="Messenger" style={{ width: '24px', margin: '0 1rem' }} />
-            <img src="github.png" alt="Github" style={{ width: '24px', margin: '0 1rem' }} />
-            <img src="whatsapp.png" alt="Whatsapp" style={{ width: '24px', margin: '0 1rem' }} />
-            <img src="linkedin.png" alt="LinkedIn" style={{ width: '24px', margin: '0 1rem' }} />
+           
           </div>
           <div style={{ borderTop: '1px solid #fff', paddingTop: '1rem' }}>
-            <button style={{ marginRight: '1rem' }}>Terms</button>
-            <button>Privacy</button>
+           { /* <button style={{ marginRight: '1rem' }}>Terms</button> */ }
+            <button>Thanks for your patience as we update our terms & privacy.</button> 
           </div>
         </div>
 

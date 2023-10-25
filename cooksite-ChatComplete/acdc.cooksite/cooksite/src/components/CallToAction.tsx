@@ -41,9 +41,9 @@ const styles = {
   },
   slashedPrice: {
     position: 'absolute',
-    bottom: '2rem',
+    bottom: '3rem',
     right: '4rem',
-    fontSize: '52px',
+    fontSize: '36px',
     fontFamily: 'Marker Felt, cursive',
     color: '#3E28DE',
   },
@@ -90,17 +90,17 @@ const CallToAction: React.FC = () => (
         Start Small, Think Big! Unlock Cost-Effective AI for Your Data.
       </h3>
       <div style={styles.slashedPrice}>
-        $349
+        $34.99/month
         <div style={styles.slashedPriceLine}></div>
       </div>
       <span style={styles.newOffer}>
-        Special Pioneers' Rate: Only{' '}
+        Try Free for a Limited Time. Login to get started.{' '}
         <span style={{ paddingLeft: '0.25rem', paddingRight: '0.25rem' }}>
           <span style={{ ...styles.underlinedPrice, background: '#3E28DE', color: 'white', borderRadius: '0.25rem' }}>
-            $34.99
+          
           </span>
         </span>
-        /month for Life!
+        
       </span>
     </div>
     

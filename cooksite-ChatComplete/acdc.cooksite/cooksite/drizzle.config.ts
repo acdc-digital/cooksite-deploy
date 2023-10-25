@@ -4,7 +4,7 @@ dotenv.config({ path: ".env" });
 
 export default {
   driver: "pg",
-  schema: "/Users/matthewsimon/Documents/GitHub/cooksite/cooksite/src/lib/db/schema.ts",
+  schema: "/Users/matthewsimon/Documents/GitHub/acdc.cooksite/cooksite-ChatComplete/acdc.cooksite/cooksite/src/lib/db/schema.ts",
   dbCredentials: {
     connectionString: process.env.DATABASE_URL!,
   },
